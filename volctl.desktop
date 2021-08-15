@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=volctl
+Hidden=false
+Name[en_GB]=Volume Control Icon
+Name=Volume Control Icon
+Comment[en_GB]=Show desktop volume control
+Comment=Show desktop volume control
+X-MATE-Autostart-Delay=0
