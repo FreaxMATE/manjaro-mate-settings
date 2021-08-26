@@ -7,3 +7,5 @@ Name=Volume Control Icon
 Comment[en_GB]=Show desktop volume control
 Comment=Show desktop volume control
 X-MATE-Autostart-Delay=0
+NoDisplay=true
+
