@@ -1,11 +1,10 @@
 [Desktop Entry]
 Type=Application
+Name=Volctl
+Comment=Per-application volume control for GNU/Linux desktops
 Exec=volctl
-Hidden=false
-Name[en_GB]=Volume Control Icon
-Name=Volume Control Icon
-Comment[en_GB]=Show desktop volume control
-Comment=Show desktop volume control
-X-MATE-Autostart-Delay=0
+Icon=multimedia-volume-control
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;Mixer;GTK;
 NoDisplay=true
-
